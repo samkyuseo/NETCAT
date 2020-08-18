@@ -32,7 +32,7 @@ The website is in /main-application
         google map components
     /navbar 
         side nav and top nav bar 
-    /profile forms 
+    /profile forms  
         registration form + create profile form 
     /routing 
         Private vs. regular routes. 
