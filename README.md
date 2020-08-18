@@ -1,4 +1,6 @@
-A website that centralized career and networking events at USC into one convinient location. Below is an overview of what each file does. /n/n
+A website that centralized career and networking events at USC into one convinient location. Below is an overview of what each file does. 
+
+<hr>
 
 The website is in /main-application
 
