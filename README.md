@@ -1,3 +1,5 @@
+A website that centralized career and networking events at USC into one convinient location. Below is an overview of what each file does. /n/n
+
 The website is in /main-application
 
 /client /src --> front end content of the website (react, redux)
