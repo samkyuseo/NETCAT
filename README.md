@@ -1,4 +1,4 @@
-A website that centralized career and networking events at USC into one convinient location. Below is an overview of what each file does. 
+USC NETWORK CATALOGUE: A website that centralized career and networking events at USC into one convinient location. Below is an overview of what each file does. 
 
 <hr>
 
